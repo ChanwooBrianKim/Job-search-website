@@ -1,1 +1,2 @@
-# a3_group15
+# QUT Group project
+Creating website for job seeker
