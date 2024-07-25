@@ -1,2 +1,2 @@
 # QUT Group project
-Creating website for job seeker
+Creating website for job seeker using Python Flask framework!
